@@ -4,8 +4,6 @@
     NSArray<NSString*> *ringScopes;
     NSArray<NSString*> *triangleScopes;
     NSArray<NSString*> *rectangleScopes;
-    
-    
 }
 
 - (id)init;
